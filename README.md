@@ -1,1 +1,1 @@
-# Whack-a-Mole-Game
+# Color Sorting Game
